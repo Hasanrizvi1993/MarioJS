@@ -2,16 +2,19 @@ body {
 	text-align: center;
 }
 
-.mario {
+#mario {
 	width: 10%;
 	height: 5%;
 	padding: 30%;
+	position: absolute; 
+	left: 500; 
+	top: 100;
 }
 
-div {
+/* div {
 	display: flex;
 	justify-content: center;
-}
+} */
 
 .up {
 	height: 20%;
