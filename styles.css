@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+
+.mario {
+	width: 10%;
+	height: 5%;
+	padding: 30%;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+}
+
+.up {
+	height: 20%;
+}
+.down {
+	height: 20%;
+}
+.right {
+	height: 20%;
+}
+.left {
+	height: 20%;
+}
